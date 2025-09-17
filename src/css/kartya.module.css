@@ -1,0 +1,14 @@
+.kep{
+    width: 300px;
+    border-radius: 15px;
+}
+
+.div{
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+    border: 3px solid black;
+    width: fit-content;
+    border-radius: 20px;
+    background-color: lightgray;    
+}

@@ -1,4 +1,5 @@
 import Hobbi from "./components/Hobbi.jsx"
+import KartyaKep from "./components/KartyaKep.jsx";
 import Konyvek from "./components/Konyvek.jsx";
 import "./css/global.css"
 
@@ -27,6 +28,9 @@ function App() {
 
       <Hobbi />
       <Konyvek />
+      <KartyaKep imgUrl = "/jeffnippard.jpg" imgTxt = "jeffnippard"/>
+      <KartyaKep imgUrl = "/ohne.png" imgTxt = "ohnepixel"/>
+      <KartyaKep imgUrl = "/viking.jpg" imgTxt = "viking"/>
     </>
   )
 }
