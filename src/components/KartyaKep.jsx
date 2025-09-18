@@ -1,5 +1,4 @@
 import styles from "../css/kartya.module.css";
-import KartyaAdatok from "./KartyaAdatok";
 
 function KartyaKep(props){
     return(
